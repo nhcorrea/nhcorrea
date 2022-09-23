@@ -7,9 +7,7 @@ Tudo isso com Typescript <3
 <div align="left" display="flex"  style={{margin-bottom: 2px}}>
   <h3>💻 Skills
   </h3>
-    <a href="#" alt="Front e Mobile">
-        <img src="https://img.shields.io/badge/Front%20|%20Mobile-39477F?style=for-the-badge" />
-    </a>
+    <img src="https://img.shields.io/badge/Front%20|%20Mobile-39477F?style=for-the-badge" alt="Frontend e Mobile" />
     <a href="https://www.typescriptlang.org/" alt="Typescript">
         <img src="https://img.shields.io/badge/typescript-222222?style=for-the-badge&logo=TypeScript" />
     </a>
@@ -32,9 +30,7 @@ Tudo isso com Typescript <3
         <img src="https://img.shields.io/badge/redux-222222?style=for-the-badge&logo=Redux&logoColor=764ABC" /> 
     </a>
     <br>
-    <a href="#" alt="Back">
-        <img src="https://img.shields.io/badge/Back-39477F?style=for-the-badge" />
-    </a>
+    <img src="https://img.shields.io/badge/Back-39477F?style=for-the-badge" alt="Backend" />
     <a href="https://nodejs.org/en/" alt="NodeJS">
         <img src="https://img.shields.io/badge/node-222222?style=for-the-badge&logo=Node.js" />
     </a>
@@ -48,9 +44,7 @@ Tudo isso com Typescript <3
         <img src="https://img.shields.io/badge/postgresql-222222?style=for-the-badge&logo=PostgreSQL" />
     </a>
     <br>
-    <a href="#" alt="Sistema operacional | Versionamento | Ambiente">
-        <img src="https://img.shields.io/badge/Others-39477F?style=for-the-badge" />
-    </a>
+    <img src="https://img.shields.io/badge/Others-39477F?style=for-the-badge" alt='Sistema operacional, versionamento de código e variaveis de ambiente' />
     <a href="https://git-scm.com/" alt="Git">
         <img src="https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=Git" />
     </a>
