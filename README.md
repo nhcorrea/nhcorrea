@@ -106,7 +106,7 @@ Tudo isso com Typescript <3
     <a href="mailto:nathahcorrea@gmail.com" alt="nathahcorrea@gmail.com">
       <img src="https://img.shields.io/badge/gmail-222222?style=for-the-badge&logo=Gmail" />
     <a>
-    <a href="https://drive.google.com/file/d/1DuedqVrzMDblsSQPnDZ7RzdbpFJNWeOt/view" alt="curriculo">
+    <a href="https://drive.google.com/file/d/13eCX_15b-f2ztmqDqdPn_ffihX2MBlky/view?usp=sharing" alt="curriculo">
       <img src="https://img.shields.io/badge/Curr%C3%ADculo-222222?style=for-the-badge&logo=Google%20Drive" />
     <a>
   </adress>
