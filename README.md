@@ -4,10 +4,12 @@ Frontend | Mobile com React e React-native utilizando recursos como Hooks, Conte
 E no Backend utilizo NodeJS com ExpressJS para criação de APIs, PostgresSQL e PrismaORM.  
 Tudo isso com Typescript <3
 
-<div align="left" display="flex"  style={{margin-bottom: 2px}}>
+<div align="left">
   <h3>💻 Skills
   </h3>
-    <img src="https://img.shields.io/badge/Front%20|%20Mobile-39477F?style=for-the-badge" alt="Frontend e Mobile" />
+    <br>
+    <img src="https://img.shields.io/badge/Frontend%20|%20Mobile-39477F?style=for-the-badge" alt="Frontend e Mobile" />
+    <br>
     <a href="https://www.typescriptlang.org/" alt="Typescript">
         <img src="https://img.shields.io/badge/typescript-222222?style=for-the-badge&logo=TypeScript" />
     </a>
@@ -30,7 +32,8 @@ Tudo isso com Typescript <3
         <img src="https://img.shields.io/badge/redux-222222?style=for-the-badge&logo=Redux&logoColor=764ABC" /> 
     </a>
     <br>
-    <img src="https://img.shields.io/badge/Back-39477F?style=for-the-badge" alt="Backend" />
+    <img src="https://img.shields.io/badge/Backend | db-39477F?style=for-the-badge" alt="Backend" />
+    <br>
     <a href="https://nodejs.org/en/" alt="NodeJS">
         <img src="https://img.shields.io/badge/node-222222?style=for-the-badge&logo=Node.js" />
     </a>
@@ -40,11 +43,12 @@ Tudo isso com Typescript <3
     <a href="https://www.prisma.io/" alt="Prisma">
         <img src="https://img.shields.io/badge/prisma%20ORM-222222?style=for-the-badge&logo=Prisma" />
     </a>
-    <a href="https://www.postgresql.org/" alt="PostgreSQL">
-        <img src="https://img.shields.io/badge/postgresql-222222?style=for-the-badge&logo=PostgreSQL" />
+    <a href="https://www.sqlite.org/index.html" alt="Prisma">
+        <img src="https://img.shields.io/badge/SQLite-222222?style=for-the-badge&logo=SQLite" />
     </a>
     <br>
     <img src="https://img.shields.io/badge/Others-39477F?style=for-the-badge" alt='Sistema operacional, versionamento de código e variaveis de ambiente' />
+    <br>
     <a href="https://git-scm.com/" alt="Git">
         <img src="https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=Git" />
     </a>
@@ -57,17 +61,32 @@ Tudo isso com Typescript <3
     <a href="https://pt.wikipedia.org/wiki/Linux" alt="Linux">
         <img src="https://img.shields.io/badge/linux-222222?style=for-the-badge&logo=Linux" />
     </a>
+    <a href="https://pt.wikipedia.org/wiki/Pop!_OS" alt="Linux">
+        <img src="https://img.shields.io/badge/Pop%20OS (linux)-222222?style=for-the-badge&logo=Pop!_OS" />
+    </a>
 </div>
 <br>
 
 <div align="left" display="flex">
     <h3>📁 Already used
     </h3>
+    <a href="https://nextjs.org/" alt="NextJS">
+            <img src="https://img.shields.io/badge/NextJS-222222?style=for-the-badge&logo=Next.js" />
+    </a>
+    <a href="https://chakra-ui.com/" alt="ChakraUI">
+            <img src="https://img.shields.io/badge/ChakraUi-222222?style=for-the-badge&logo=ChakraUI" />
+    </a>
+    <a href="https://tailwindcss.com/" alt="Tailwind">
+            <img src="https://img.shields.io/badge/Tailwind-222222?style=for-the-badge&logo=Tailwind%20CSS" />
+    </a>
+    <a href="https://sass-lang.com/" alt="Sass">
+            <img src="https://img.shields.io/badge/SaSS-222222?style=for-the-badge&logo=Sass" />
+    </a>
     <a href="https://www.docker.com/" alt="Docker">
             <img src="https://img.shields.io/badge/docker-222222?style=for-the-badge&logo=Docker" /> 
     </a>
-    <a href="https://nextjs.org/" alt="NextJS">
-            <img src="https://img.shields.io/badge/NextJS-222222?style=for-the-badge&logo=Next.js" />
+    <a href="https://www.postgresql.org/" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/postgresql-222222?style=for-the-badge&logo=PostgreSQL" />
     </a>
     <a href="https://fauna.com/" alt="FaunaDB">
             <img src="https://img.shields.io/badge/faunaDB-222222?style=for-the-badge&logo=Fauna" />
@@ -77,15 +96,6 @@ Tudo isso com Typescript <3
     </a>
     <a href="https://prismic.io/" alt="Prismic">
             <img src="https://img.shields.io/badge/prismic%20cms-222222?style=for-the-badge&logo=Prismic" />
-    </a>
-    <a href="https://tailwindcss.com/" alt="Tailwind">
-            <img src="https://img.shields.io/badge/Tailwind-222222?style=for-the-badge&logo=Tailwind%20CSS" />
-    </a>
-    <a href="https://chakra-ui.com/" alt="ChakraUI">
-            <img src="https://img.shields.io/badge/ChakraUi-222222?style=for-the-badge&logo=ChakraUI" />
-    </a>
-    <a href="https://sass-lang.com/" alt="Sass">
-            <img src="https://img.shields.io/badge/SaSS-222222?style=for-the-badge&logo=Sass" />
     </a>
     <a href="https://www.figma.com/" alt="Figma">
             <img src="https://img.shields.io/badge/Figma-222222?style=for-the-badge&logo=Figma" />
