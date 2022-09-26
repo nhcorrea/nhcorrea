@@ -50,7 +50,7 @@ Meus hobbies são geralmente nerdices, então provavelmente você já sabe o que
     <a href="https://www.prisma.io/" alt="Prisma">
         <img src="https://img.shields.io/badge/prisma%20ORM-222222?style=for-the-badge&logo=Prisma" />
     </a>
-    <a href="https://www.sqlite.org/index.html" alt="Prisma">
+    <a href="https://www.sqlite.org/index.html" alt="SQLite">
         <img src="https://img.shields.io/badge/SQLite-222222?style=for-the-badge&logo=SQLite" />
     </a>
     <br>
@@ -104,6 +104,9 @@ Meus hobbies são geralmente nerdices, então provavelmente você já sabe o que
     </a>
     <a href="https://prismic.io/" alt="Prismic">
             <img src="https://img.shields.io/badge/prismic%20cms-222222?style=for-the-badge&logo=Prismic" />
+    </a>
+    <a href="https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170" alt="C Language">
+            <img src="https://img.shields.io/badge/C-222222?style=for-the-badge&logo=C" />
     </a>
 </div>
 <div align="left">
