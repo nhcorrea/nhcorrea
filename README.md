@@ -130,7 +130,7 @@ Meus hobbies são geralmente nerdices, então provavelmente você já sabe o que
     <img width="340vw"src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathahernandez&layout=compact&langs_count=7&title_color=1D4ED8&text_color=FFFFFF&bg_color=18181B&icon_color=1D4ED8&hide_border=true"/>
   </a>
   <a href="https://wakatime.com/@nhcrr">
-    <img width="560vw" src="https://github-readme-stats.vercel.app/api/wakatime?username=nhcrr&layout=compact&title_color=1D4ED8&text_color=FFFFFF&bg_color=18181B&icon_color=1D4ED8&hide_border=true&custom_title=WakaTime - Coding Stats" />
+    <img width="560vw" src="https://github-readme-stats.vercel.app/api/wakatime?username=nhcrr&layout=compact&title_color=1D4ED8&text_color=FFFFFF&bg_color=18181B&icon_color=1D4ED8&hide_border=true&custom_title=WakaTime%20-%20Coding%20Stats" />
   </a>
 </div>
 <div align="center">
