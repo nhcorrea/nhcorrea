@@ -1,13 +1,20 @@
-### _Olá, eu sou o Nathã, tenho 23 anos e sou desenvolvedor mobile e web._ <img width='25px' src='https://i.giphy.com/media/ForGhNsns4ivghPjaQ/giphy.webp' />
+### _Depois do café eu me apresento._ ☕🧑‍💻
+#### Olá, meu nome é Nathã tenho 23 anos e sou desenvolvedor mobile e web.
+O que eu utilizo ?
 
 Frontend | Mobile com React e React-native utilizando recursos como Hooks, Context-api ou Redux, Styled-components ou ChakraUI, Axios, entre outros.        
-E no Backend utilizo NodeJS com ExpressJS para criação de APIs, PostgresSQL e PrismaORM.  
-Tudo isso com Typescript <3
+E no Backend utilizo NodeJS com ExpressJS para criação de APIs, SQLite e PrismaORM.     
+Typescript para deixar o entendimento mais fácil, utilizo em todas as partes dos meus projetos.   
+Mais detalhes sobre tecnologias que utilizo ou já tive contato abaixo. ⬇️ 
+
+Sobre mim:
+
+Sou uma pessoa de fácil convivência e muito esforçada, não acredito em talento e busco sempre estar mais próximo da minha melhor versão através dos estudos e dedicação.   
+Meus hobbies são geralmente nerdices, então provavelmente você já sabe o que é hahahaha.
 
 <div align="left">
   <h3>💻 Skills
   </h3>
-    <br>
     <img src="https://img.shields.io/badge/Frontend%20|%20Mobile-39477F?style=for-the-badge" alt="Frontend e Mobile" />
     <br>
     <a href="https://www.typescriptlang.org/" alt="Typescript">
@@ -64,9 +71,10 @@ Tudo isso com Typescript <3
     <a href="https://pt.wikipedia.org/wiki/Pop!_OS" alt="Linux">
         <img src="https://img.shields.io/badge/Pop%20OS (linux)-222222?style=for-the-badge&logo=Pop!_OS" />
     </a>
+    <a href="https://www.figma.com/" alt="Figma">
+        <img src="https://img.shields.io/badge/Figma-222222?style=for-the-badge&logo=Figma" />
+    </a>
 </div>
-<br>
-
 <div align="left" display="flex">
     <h3>📁 Already used
     </h3>
@@ -97,9 +105,6 @@ Tudo isso com Typescript <3
     <a href="https://prismic.io/" alt="Prismic">
             <img src="https://img.shields.io/badge/prismic%20cms-222222?style=for-the-badge&logo=Prismic" />
     </a>
-    <a href="https://www.figma.com/" alt="Figma">
-            <img src="https://img.shields.io/badge/Figma-222222?style=for-the-badge&logo=Figma" />
-    </a>
 </div>
 <div align="left">
   <h3>📬 Contact</h3>
@@ -126,5 +131,4 @@ Tudo isso com Typescript <3
   <h3>Não há atalho: há treino e persistência. 📖</h3>
   <br>
   <strong>Últimos projetos estão fixados logo abaixo. ⬇️</strong>
-</div>  
-
+</div>
