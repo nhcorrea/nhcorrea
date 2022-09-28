@@ -38,8 +38,11 @@ Meus hobbies são geralmente nerdices, então provavelmente você já sabe o que
     <a href="https://redux.js.org/" alt="Redux">
         <img src="https://img.shields.io/badge/redux-18181B?style=for-the-badge&logo=Redux&logoColor=764ABC" /> 
     </a>
+    <a href="https://axios-http.com/ptbr/docs/intro" alt="Axios">
+        <img src="https://img.shields.io/badge/axios-18181B?style=for-the-badge&logo=Axios" /> 
+    </a>
     <br>
-    <img src="https://img.shields.io/badge/Backend%20|%20db-1D4ED8?style=for-the-badge" alt="Backend" />
+    <img src="https://img.shields.io/badge/Backend%20|%20database-1D4ED8?style=for-the-badge" alt="Backend" />
     <br>
     <a href="https://nodejs.org/en/" alt="NodeJS">
         <img src="https://img.shields.io/badge/node-18181B?style=for-the-badge&logo=Node.js" />
