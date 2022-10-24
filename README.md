@@ -71,8 +71,8 @@ Meus hobbies são geralmente nerdices, então provavelmente você já sabe o que
     <a href="https://pt.wikipedia.org/wiki/Linux" alt="Linux">
         <img src="https://img.shields.io/badge/linux-18181B?style=for-the-badge&logo=Linux" />
     </a>
-    <a href="https://pt.wikipedia.org/wiki/Pop!_OS" alt="Linux">
-        <img src="https://img.shields.io/badge/Pop%20OS (linux)-18181B?style=for-the-badge&logo=Pop!_OS" />
+    <a href="https://pt.wikipedia.org/wiki/Zorin_OS" alt="ZorinOS (Ubuntu based)">
+        <img src="https://img.shields.io/badge/Zorin%20OS-18181B?style=for-the-badge&logo=Zorin" />
     </a>
     <a href="https://www.figma.com/" alt="Figma">
         <img src="https://img.shields.io/badge/Figma-18181B?style=for-the-badge&logo=Figma" />
