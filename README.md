@@ -1,22 +1,19 @@
-### _Depois do café eu me apresento._ ☕🧑‍💻
-#### Olá, meu nome é Nathã tenho 23 anos e sou desenvolvedor mobile e web.
-O que eu utilizo ?
+### _Olá, meu nome é Nathã_ ☕🧑‍💻
 
-Frontend | Mobile com React e React-native utilizando recursos como Hooks, Context-api ou Redux, Styled-components ou ChakraUI, Axios, entre outros.        
-E no Backend utilizo NodeJS com ExpressJS para criação de APIs, SQLite e PrismaORM.     
-Typescript para deixar o entendimento mais fácil, utilizo em todas as partes dos meus projetos.   
-Mais detalhes sobre tecnologias que utilizo ou já tive contato abaixo. ⬇️ 
+Sou uma pessoa que busco sempre estar mais próximo da minha melhor versão através dos estudos e dedicação.
 
-Sobre mim:
+Desenvolvedor Fullstack com uma pequena preferência por Mobile e Front end.
+Tenho experiência com algumas linguagens de programação porém atualmente tenho foco nas tecnologias do Javascript utilizando Typescript em todos os casos.  (Frontend: React, Mobile: React native e Backend: NodeJS)  
+Controle de versão com Git e Github.
 
-Sou uma pessoa de fácil convivência e muito esforçada, não acredito em talento e busco sempre estar mais próximo da minha melhor versão através dos estudos e dedicação.   
-Meus hobbies são geralmente nerdices, então provavelmente você já sabe o que é hahahaha.
+Costumo fazer alguns pequenos projetos pessoais para aprender novas tecnologias ou adquirir conhecimento em alguma que eu já conheça.  
+Os projetos estão públicos no meu perfil, é só acessar. =)
+
 
 <div align="left">
   <h3>💻 Skills
   </h3>
     <img src="https://img.shields.io/badge/Frontend%20|%20Mobile-1D4ED8?style=for-the-badge" alt="Frontend e Mobile" />
-    <br> 
     <a href="https://www.typescriptlang.org/" alt="Typescript">
         <img src="https://img.shields.io/badge/typescript-18181B?style=for-the-badge&logo=TypeScript" />
     </a>
@@ -35,15 +32,11 @@ Meus hobbies são geralmente nerdices, então provavelmente você já sabe o que
     <a href="https://styled-components.com/" alt="Styled Components">
         <img src="https://img.shields.io/badge/styled%20components-18181B?style=for-the-badge&logo=styled-components" />
     </a>
-    <a href="https://redux.js.org/" alt="Redux">
-        <img src="https://img.shields.io/badge/redux-18181B?style=for-the-badge&logo=Redux&logoColor=764ABC" /> 
-    </a>
     <a href="https://axios-http.com/ptbr/docs/intro" alt="Axios">
         <img src="https://img.shields.io/badge/axios-18181B?style=for-the-badge&logo=Axios" /> 
     </a>
     <br>
     <img src="https://img.shields.io/badge/Backend%20|%20database-1D4ED8?style=for-the-badge" alt="Backend" />
-    <br>
     <a href="https://nodejs.org/en/" alt="NodeJS">
         <img src="https://img.shields.io/badge/node-18181B?style=for-the-badge&logo=Node.js" />
     </a>
@@ -58,7 +51,6 @@ Meus hobbies são geralmente nerdices, então provavelmente você já sabe o que
     </a>
     <br>
     <img src="https://img.shields.io/badge/Others-1D4ED8?style=for-the-badge" alt='Sistema operacional, versionamento de código e variaveis de ambiente' />
-    <br>
     <a href="https://git-scm.com/" alt="Git">
         <img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=Git" />
     </a>
@@ -68,11 +60,8 @@ Meus hobbies são geralmente nerdices, então provavelmente você já sabe o que
     <a href="https://www.npmjs.com/package/dotenv" alt="DotEnv">
         <img src="https://img.shields.io/badge/.env-18181B?style=for-the-badge&logo=dotenv" />
     </a>
-    <a href="https://pt.wikipedia.org/wiki/Linux" alt="Linux">
-        <img src="https://img.shields.io/badge/linux-18181B?style=for-the-badge&logo=Linux" />
-    </a>
     <a href="https://pt.wikipedia.org/wiki/Zorin_OS" alt="ZorinOS (Ubuntu based)">
-        <img src="https://img.shields.io/badge/Zorin%20OS-18181B?style=for-the-badge&logo=Zorin" />
+        <img src="https://img.shields.io/badge/Zorin%20OS%20(Ubuntu)-18181B?style=for-the-badge&logo=Zorin" />
     </a>
     <a href="https://www.figma.com/" alt="Figma">
         <img src="https://img.shields.io/badge/Figma-18181B?style=for-the-badge&logo=Figma" />
@@ -92,12 +81,6 @@ Meus hobbies são geralmente nerdices, então provavelmente você já sabe o que
     </a>
     <a href="https://sass-lang.com/" alt="Sass">
             <img src="https://img.shields.io/badge/SaSS-18181B?style=for-the-badge&logo=Sass" />
-    </a>
-    <a href="https://www.docker.com/" alt="Docker">
-            <img src="https://img.shields.io/badge/docker-18181B?style=for-the-badge&logo=Docker" /> 
-    </a>
-    <a href="https://www.postgresql.org/" alt="PostgreSQL">
-        <img src="https://img.shields.io/badge/postgresql-18181B?style=for-the-badge&logo=PostgreSQL" />
     </a>
     <a href="https://fauna.com/" alt="FaunaDB">
             <img src="https://img.shields.io/badge/faunaDB-18181B?style=for-the-badge&logo=Fauna" />
@@ -127,17 +110,12 @@ Meus hobbies são geralmente nerdices, então provavelmente você já sabe o que
   </adress>
 </div>
 <br>
+<div align="center">
+  <h3>Não há atalho: há treino e persistência. 📖</h3>
+</div>
 <div align="center" display="inline-block">
   <a href="https://github.com/nathahernandez">
     <img width="468vw" src="https://github-readme-stats.vercel.app/api?username=nathahernandez&show_icons=true&include_all_commits=true&count_private=true&title_color=1D4ED8&text_color=FFFFFF&bg_color=18181B&icon_color=1D4ED8&hide_border=true"/>
     <img width="340vw"src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathahernandez&layout=compact&langs_count=7&title_color=1D4ED8&text_color=FFFFFF&bg_color=18181B&icon_color=1D4ED8&hide_border=true"/>
   </a>
-  <a href="https://wakatime.com/nhcrr">
-    <img width="560vw" src="https://github-readme-stats.vercel.app/api/wakatime?username=@nhcrr&layout=compact&title_color=1D4ED8&text_color=FFFFFF&bg_color=18181B&icon_color=1D4ED8&hide_border=true&custom_title=WakaTime%20-%20Coding%20Stats" />
-  </a>
-</div>
-<div align="center">
-  <h3>Não há atalho: há treino e persistência. 📖</h3>
-  <br>
-  <strong>Últimos projetos estão fixados logo abaixo. ⬇️</strong>
 </div>
