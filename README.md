@@ -104,7 +104,7 @@ Os projetos estão públicos no meu perfil, é só acessar. =)
     <a href="mailto:nathahcorrea@gmail.com" alt="nathahcorrea@gmail.com">
       <img src="https://img.shields.io/badge/gmail-18181B?style=for-the-badge&logo=Gmail" />
     <a>
-    <a href="https://drive.google.com/file/d/13eCX_15b-f2ztmqDqdPn_ffihX2MBlky/view?usp=sharing" alt="curriculo">
+    <a href="https://drive.google.com/file/d/14IN4mSSKyiS8meaJmhmKZ9r5zrf1sfbb/view?usp=share_link" alt="curriculo">
       <img src="https://img.shields.io/badge/Curr%C3%ADculo-18181B?style=for-the-badge&logo=Google%20Drive" />
     <a>
   </adress>
