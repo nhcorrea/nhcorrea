@@ -1,18 +1,16 @@
-### _Olá, meu nome é Nathã_ ☕🧑‍💻
+### _Olá meu nome é Nathã e sou Dev Fullstack_ ☕🧑‍💻
 
-Sou uma pessoa que busco sempre estar mais próximo da minha melhor versão através dos estudos e dedicação.
+Sou uma pessoa que busco sempre estar mais próximo da minha melhor versão através dos estudos e dedicação.  
+Cada dia mais grato pelos desafios e recompensas que a programação tem me dado.
 
-Desenvolvedor Fullstack com uma pequena preferência por Mobile e Front end.
-Tenho experiência com algumas linguagens de programação porém atualmente tenho foco nas tecnologias do Javascript utilizando Typescript em todos os casos.  (Frontend: React, Mobile: React native e Backend: NodeJS)  
-Controle de versão com Git e Github.
+Backend, Frontend ou Mobile, gosto de todas as etapas do desenvolvimento e qualquer desafio é bem vindo.  
+Tenho experiência com algumas linguagens de programação porém atualmente tenho foco nas tecnologias do Javascript utilizando Typescript em todos os casos.  
+Para versionamento eu utilizo Git com o Github.
 
 Costumo fazer alguns pequenos projetos pessoais para aprender novas tecnologias ou adquirir conhecimento em alguma que eu já conheça.  
-Os projetos estão públicos no meu perfil, é só acessar. =)
-
+Meus últimos projetos estão fixados em ordem no meu perfil, é só acessar. =)
 
 <div align="left">
-  <h3>💻 Skills
-  </h3>
     <img src="https://img.shields.io/badge/Frontend%20|%20Mobile-1D4ED8?style=for-the-badge" alt="Frontend e Mobile" />
     <a href="https://www.typescriptlang.org/" alt="Typescript">
         <img src="https://img.shields.io/badge/typescript-18181B?style=for-the-badge&logo=TypeScript" />
@@ -20,11 +18,11 @@ Os projetos estão públicos no meu perfil, é só acessar. =)
     <a href="https://reactjs.org/" alt="React">
         <img src="https://img.shields.io/badge/react-18181B?style=for-the-badge&logo=React" /> 
     </a>
-    <a href="https://vitejs.dev/" alt="ViteJS">
-        <img src="https://img.shields.io/badge/vite-18181B?style=for-the-badge&logo=Vite" />
-    </a>
     <a href="https://reactnative.dev/" alt="React Native">
         <img src="https://img.shields.io/badge/react%20native-18181B?style=for-the-badge&logo=React" /> 
+    </a>
+    <a href="https://vitejs.dev/" alt="ViteJS">
+        <img src="https://img.shields.io/badge/vite-18181B?style=for-the-badge&logo=Vite" />
     </a>
     <a href="https://expo.dev/" alt="Expo">
         <img src="https://img.shields.io/badge/expo-18181B?style=for-the-badge&logo=Expo" /> 
@@ -40,14 +38,17 @@ Os projetos estão públicos no meu perfil, é só acessar. =)
     <a href="https://nodejs.org/en/" alt="NodeJS">
         <img src="https://img.shields.io/badge/node-18181B?style=for-the-badge&logo=Node.js" />
     </a>
+    <a href="https://www.typescriptlang.org/" alt="Typescript">
+        <img src="https://img.shields.io/badge/typescript-18181B?style=for-the-badge&logo=TypeScript" />
+    </a>
     <a href="https://expressjs.com/" alt="Express">
         <img src="https://img.shields.io/badge/express-18181B?style=for-the-badge&logo=Express" />
     </a>
-    <a href="https://www.prisma.io/" alt="Prisma">
-        <img src="https://img.shields.io/badge/prisma%20ORM-18181B?style=for-the-badge&logo=Prisma" />
+    <a href="https://www.mongodb.com/" alt="MongoDB">
+        <img src="https://img.shields.io/badge/MongoDB-18181B?style=for-the-badge&logo=MongoDB" />
     </a>
-    <a href="https://www.sqlite.org/index.html" alt="SQLite">
-        <img src="https://img.shields.io/badge/SQLite-18181B?style=for-the-badge&logo=SQLite" />
+    <a href="https://www.docker.com/" alt="Docker">
+        <img src="https://img.shields.io/badge/Docker-18181B?style=for-the-badge&logo=Docker" />
     </a>
     <br>
     <img src="https://img.shields.io/badge/Others-1D4ED8?style=for-the-badge" alt='Sistema operacional, versionamento de código e variaveis de ambiente' />
@@ -67,36 +68,8 @@ Os projetos estão públicos no meu perfil, é só acessar. =)
         <img src="https://img.shields.io/badge/Figma-18181B?style=for-the-badge&logo=Figma" />
     </a>
 </div>
-<div align="left" display="flex">
-    <h3>📁 Already used
-    </h3>
-    <a href="https://nextjs.org/" alt="NextJS">
-            <img src="https://img.shields.io/badge/NextJS-18181B?style=for-the-badge&logo=Next.js" />
-    </a>
-    <a href="https://chakra-ui.com/" alt="ChakraUI">
-            <img src="https://img.shields.io/badge/ChakraUi-18181B?style=for-the-badge&logo=ChakraUI" />
-    </a>
-    <a href="https://tailwindcss.com/" alt="Tailwind">
-            <img src="https://img.shields.io/badge/Tailwind-18181B?style=for-the-badge&logo=Tailwind%20CSS" />
-    </a>
-    <a href="https://sass-lang.com/" alt="Sass">
-            <img src="https://img.shields.io/badge/SaSS-18181B?style=for-the-badge&logo=Sass" />
-    </a>
-    <a href="https://fauna.com/" alt="FaunaDB">
-            <img src="https://img.shields.io/badge/faunaDB-18181B?style=for-the-badge&logo=Fauna" />
-    </a>
-    <a href="https://stripe.com/en-br" alt="Stripe">
-            <img src="https://img.shields.io/badge/Stripe-18181B?style=for-the-badge&logo=Stripe" />
-    </a>
-    <a href="https://prismic.io/" alt="Prismic">
-            <img src="https://img.shields.io/badge/prismic%20cms-18181B?style=for-the-badge&logo=Prismic" />
-    </a>
-    <a href="https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170" alt="C Language">
-            <img src="https://img.shields.io/badge/C-18181B?style=for-the-badge&logo=C" />
-    </a>
-</div>
 <div align="left">
-  <h3>📬 Contact</h3>
+  <img src="https://img.shields.io/badge/Contact-1D4ED8?style=for-the-badge" alt="Contato" />
   <adress>
     <a href="https://www.linkedin.com/in/natha-hernandez/" alt="linkedin">
       <img src="https://img.shields.io/badge/Linkedin-18181B?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2" />
