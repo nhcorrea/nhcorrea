@@ -40,6 +40,7 @@ Meus últimos projetos estão fixados no meu perfil, é só acessar. 😊
         <img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=Git" />
     </a>
 </div>
+<br>
 <div align="left">
   <img src="https://img.shields.io/badge/contact%20☎️-1D4ED8?style=for-the-badge" alt="Contato" />
   <br>
@@ -57,11 +58,10 @@ Meus últimos projetos estão fixados no meu perfil, é só acessar. 😊
 </div>
 <br>
 <div align="center">
-  <h4>Não há atalho: há treino e persistência. 🧑‍💻📖</h4>
+  <h4>Não há atalho: há treino e persistência. 🧑‍💻📚</h4>
 </div>
 <div align="center" display="inline-block">
   <a href="https://github.com/nathahernandez">
-    <img width="468" src="https://github-readme-stats.vercel.app/api?username=nathahernandez&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true"/>
     <img width="340"src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathahernandez&layout=compact&langs_count=7&theme=transparent&hide_border=true"/>
   </a>
 </div>
