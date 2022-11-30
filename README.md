@@ -10,49 +10,49 @@ Meus últimos projetos estão fixados no meu perfil, é só acessar. 😊
 
 <div align="left">
     <a href="https://www.typescriptlang.org/" alt="Typescript">
-        <img src="https://img.shields.io/badge/typescript-18181B?style=for-the-badge&logo=TypeScript" />
+        <img src="https://img.shields.io/badge/Typescript-18181B?style=flat-square&logo=TypeScript" />
     </a>
     <a href="https://reactjs.org/" alt="React">
-        <img src="https://img.shields.io/badge/react-18181B?style=for-the-badge&logo=React" /> 
+        <img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=React" /> 
     </a>
     <a href="https://reactnative.dev/" alt="React Native">
-        <img src="https://img.shields.io/badge/react%20native-18181B?style=for-the-badge&logo=React" /> 
+        <img src="https://img.shields.io/badge/React%20native-18181B?style=flat-square&logo=React" /> 
     </a>
     <a href="https://nodejs.org/en/" alt="NodeJS">
-        <img src="https://img.shields.io/badge/node-18181B?style=for-the-badge&logo=Node.js" />
+        <img src="https://img.shields.io/badge/NodeJS-18181B?style=flat-square&logo=Node.js" />
     </a>
     <a href="https://expressjs.com/" alt="Express">
-        <img src="https://img.shields.io/badge/express-18181B?style=for-the-badge&logo=Express" />
+        <img src="https://img.shields.io/badge/Express-18181B?style=flat-square&logo=Express" />
     </a>
     <a href="https://www.mongodb.com/" alt="MongoDB">
-        <img src="https://img.shields.io/badge/MongoDB-18181B?style=for-the-badge&logo=MongoDB" />
+        <img src="https://img.shields.io/badge/MongoDB-18181B?style=flat-square&logo=MongoDB" />
     </a>
     <a href="https://www.docker.com/" alt="Docker">
-        <img src="https://img.shields.io/badge/Docker-18181B?style=for-the-badge&logo=Docker" />
+        <img src="https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=Docker" />
     </a>
     <a href="https://styled-components.com/" alt="Styled Components">
-        <img src="https://img.shields.io/badge/styled%20components-18181B?style=for-the-badge&logo=styled-components" />
+        <img src="https://img.shields.io/badge/Styled%20components-18181B?style=flat-square&logo=styled-components" />
     </a>
     <a href="https://www.figma.com/" alt="Figma">
-        <img src="https://img.shields.io/badge/Figma-18181B?style=for-the-badge&logo=Figma" />
+        <img src="https://img.shields.io/badge/Figma-18181B?style=flat-square&logo=Figma" />
     </a>
     <a href="https://git-scm.com/" alt="Git">
-        <img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=Git" />
+        <img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=Git" />
     </a>
 </div>
 <br>
 <div align="left">
-  <img src="https://img.shields.io/badge/contact%20☎️-1D4ED8?style=for-the-badge" alt="Contato" />
+  <img src="https://img.shields.io/badge/Contact%20☎️-1D4ED8?style=flat-square" alt="Contato" />
   <br>
   <adress>
     <a href="https://www.linkedin.com/in/natha-hernandez/" alt="linkedin">
-      <img src="https://img.shields.io/badge/Linkedin-18181B?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2" />
+      <img src="https://img.shields.io/badge/Linkedin-18181B?style=flat-square&logo=LinkedIn&logoColor=0A66C2" />
     </a>
     <a href="mailto:nathahcorrea@gmail.com" alt="nathahcorrea@gmail.com">
-      <img src="https://img.shields.io/badge/gmail-18181B?style=for-the-badge&logo=Gmail" />
+      <img src="https://img.shields.io/badge/gmail-18181B?style=flat-square&logo=Gmail" />
     <a>
     <a href="https://drive.google.com/file/d/1d4IOCKw-wcdDUTjkvvS8uM9VEPnNXqyw/view?usp=share_link" alt="curriculo">
-      <img src="https://img.shields.io/badge/Curr%C3%ADculo-18181B?style=for-the-badge&logo=Google%20Drive" />
+      <img src="https://img.shields.io/badge/Curr%C3%ADculo-18181B?style=flat-square&logo=Google%20Drive" />
     <a>
   </adress>
 </div>
