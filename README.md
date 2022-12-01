@@ -50,10 +50,10 @@ Meus últimos projetos estão fixados no meu perfil, é só acessar. 😊
     </a>
     <a href="mailto:nathahcorrea@gmail.com" alt="nathahcorrea@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-18181B?style=flat-square&logo=Gmail" />
-    <a>
+    <a> <!--
     <a href="https://drive.google.com/file/d/1d4IOCKw-wcdDUTjkvvS8uM9VEPnNXqyw/view?usp=share_link" alt="curriculo">
       <img src="https://img.shields.io/badge/Curr%C3%ADculo-18181B?style=flat-square&logo=Google%20Drive" />
-    <a>
+    <a> -->
   </adress>
 </div>
 <br>
