@@ -19,7 +19,7 @@ Meus últimos projetos estão fixados no meu perfil, é só acessar. 😊
         <img src="https://img.shields.io/badge/React%20native-18181B?style=flat-square&logo=React" /> 
     </a>
     <a href="https://nodejs.org/en/" alt="NodeJS">
-        <img src="https://img.shields.io/badge/NodeJS-18181B?style=flat-square&logo=Node.js" />
+        <img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=Node.js" />
     </a>
     <a href="https://expressjs.com/" alt="Express">
         <img src="https://img.shields.io/badge/Express-18181B?style=flat-square&logo=Express" />
