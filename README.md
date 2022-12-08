@@ -1,4 +1,3 @@
-#### i'm fullstack developer =) 🧑‍💻🌐
 ###### Status Code: 200
 
 Gosto de todas as etapas do desenvolvimento e qualquer desafio é bem vindo.  
@@ -6,7 +5,7 @@ Tenho experiência com algumas linguagens de programação porém atualmente ten
 Sou uma pessoa que busco sempre estar mais próximo da minha melhor versão através dos estudos e dedicação.  
 Costumo fazer alguns pequenos projetos pessoais para aprender novas tecnologias ou aprimorar conhecimento em alguma das tecnologias que eu já conheça.
 
-Meus últimos projetos estão fixados no meu perfil, é só acessar. 😊
+Meus últimos projetos estão fixados no meu perfil, é só acessar. 🧑‍💻🌐
 
 <div align="left">
     <a href="https://www.typescriptlang.org/" alt="Typescript">
