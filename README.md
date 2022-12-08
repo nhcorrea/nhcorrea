@@ -59,8 +59,3 @@ Meus últimos projetos estão fixados no meu perfil, é só acessar. 🧑‍💻
 <div align="center">
   <h4>Não há atalho: há treino e persistência. 🧑‍💻📚</h4>
 </div>
-<div align="center" display="inline-block">
-  <a href="https://github.com/nathahernandez">
-    <img width="340"src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathahernandez&layout=compact&langs_count=7&theme=transparent&hide_border=true"/>
-  </a>
-</div>
