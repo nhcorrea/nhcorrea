@@ -3,7 +3,7 @@
 
 Gosto de todas as etapas do desenvolvimento e qualquer desafio é bem vindo.  
 Tenho experiência com algumas linguagens de programação porém atualmente tenho foco nas tecnologias do Javascript utilizando Typescript.  
-Sou uma pessoa que busco sempre estar mais próximo da minha melhor versão através dos estudos e dedicação.
+Sou uma pessoa que busco sempre estar mais próximo da minha melhor versão através dos estudos e dedicação.  
 Costumo fazer alguns pequenos projetos pessoais para aprender novas tecnologias ou aprimorar conhecimento em alguma das tecnologias que eu já conheça.
 
 Meus últimos projetos estão fixados no meu perfil, é só acessar. 😊
