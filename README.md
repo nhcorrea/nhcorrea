@@ -1,7 +1,4 @@
-<div align=center>
-
 #### welcome =) 
-</div>
 
 ###### Status Code: 200
 
