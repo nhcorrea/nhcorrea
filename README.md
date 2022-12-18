@@ -1,7 +1,7 @@
-<center>
+<div align=center>
 
 #### welcome =) 
-</center>
+</div>
 
 ###### Status Code: 200
 
@@ -36,8 +36,8 @@ Meus últimos projetos estão fixados no meu perfil, é só acessar.
     <a> -->
 </adress>
 
-<center>
+<div align=center>
 
 #### Uma pessoa inteligente resolve um problema, um sábio o previne.
 ![ProfileViews](https://komarev.com/ghpvc/?username=nathahernandez&style=flat&label=Views%2B%2B&color=1D4ED8)
-</center>
+</div>
