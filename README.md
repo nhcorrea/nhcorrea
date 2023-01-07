@@ -32,9 +32,6 @@ Meus últimos projetos estão fixados no meu perfil, é só acessar.
       <img src="https://img.shields.io/badge/Curr%C3%ADculo-18181B?style=flat-square&logo=Google%20Drive" />
     <a> -->
 </adress>
-
 <div align=center>
-
-#### Uma pessoa inteligente resolve um problema, um sábio o previne.
 ![ProfileViews](https://komarev.com/ghpvc/?username=nathahernandez&style=flat&label=Views%2B%2B&color=1D4ED8)
 </div>
