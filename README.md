@@ -2,10 +2,10 @@
 
 ###### Status Code: 200
 
-Gosto de todas as etapas do desenvolvimento e qualquer desafio é bem vindo.  
-Tenho experiência com algumas linguagens de programação porém atualmente tenho foco nas tecnologias do Javascript utilizando Typescript.  
-Sou uma pessoa que busco sempre estar mais próximo da minha melhor versão através dos estudos e dedicação.
-Costumo fazer alguns pequenos projetos pessoais para aprender novas tecnologias ou aprimorar conhecimento em alguma das tecnologias que eu já conheça.
+Meu nome é Nathã Hernandez tenho 24 anos, sou ex-estudante de Engenharia de Computação - UFPel atualmente ingressando na Graduação de Engenharia de Software.
+Desde meus 4 anos tenho contato com PCs e durante minha vida me tornei um apaixonado por tecnologia.
+Não vou negar, ver uns códigos malucos em Pascal durante a formação da minha mãe em ADS (2007) também me incentivaram muito a querer entender o que aquilo fazia e ser da área.
+O que mais me fascina na programação é você não ter limites de criação e simplesmente o limite é seu estudo e criatividade.
 
 Meus últimos projetos estão fixados no meu perfil, é só acessar.
 
