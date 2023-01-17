@@ -2,7 +2,7 @@
 
 ###### Status Code: 200
 
-Meu nome é Nathã Hernandez tenho 24 anos, sou ex-estudante de Engenharia de Computação - UFPel atualmente ingressando na Graduação de Engenharia de Software.  
+Meu nome é Nathã Hernandez tenho 24 anos, sou ex-estudante de Engenharia de Computação - UFPel e atualmente estou cursando Engenharia de Software.  
 Desde meus 4 anos tenho contato com PCs e durante minha vida me tornei um apaixonado por tecnologia.  
 Não vou negar, ver uns códigos malucos em Pascal durante a formação da minha mãe em ADS (2007) também me incentivaram muito a querer entender o que aquilo fazia e ser da área.
 O que mais me fascina na programação é você não ter limites de criação e simplesmente o limite é seu estudo e criatividade.
