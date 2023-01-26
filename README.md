@@ -25,6 +25,7 @@ Meus projetos estão públicos em meu perfil, os principais estão fixados poré
 ![MongoDB](https://img.shields.io/badge/MongoDB-18181B?style=flat-square&logo=MongoDB)
 ![SQLite](https://img.shields.io/badge/SQLite-18181B?style=flat-square&logo=SQLite)
 ![Docker](https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=Docker)
+![ESLint](https://img.shields.io/badge/ESLint-18181B?style=flat-square&logo=ESLint&logoColor=4B32C3)
 ![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=Git)
 
 ![Contact](https://img.shields.io/badge/Contact%20me-1D4ED8?style=flat-square)
