@@ -13,7 +13,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-18181B?style=flat-square&logo=MongoDB)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=PostgreSQL)](https://www.postgresql.org/)
 [![Docker](https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=Docker)](https://www.docker.com/)
-[![Nest.js](https://img.shields.io/badge/Nest.js-18181B?style=flat-square&logo=NestJS&logoColor=E0234E)](https://nestjs.com/)
 [![React Native](https://img.shields.io/badge/React%20native-18181B?style=flat-square&logo=React)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-18181B?style=flat-square&logo=Expo)](https://expo.dev/)
 [![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=Git)](https://git-scm.com/)
