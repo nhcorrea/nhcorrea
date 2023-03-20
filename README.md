@@ -10,11 +10,9 @@
 [![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=Node.js)](https://nodejs.org/en/)
 [![Fastify](https://img.shields.io/badge/Fastify-18181B?style=flat-square&logo=Fastify)](https://www.fastify.io/)
 [![Express.js](https://img.shields.io/badge/Express.js-18181B?style=flat-square&logo=Express)](https://expressjs.com/pt-br/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-18181B?style=flat-square&logo=MongoDB)](https://www.mongodb.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=PostgreSQL)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=Docker)](https://www.docker.com/)
 [![React Native](https://img.shields.io/badge/React%20native-18181B?style=flat-square&logo=React)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-18181B?style=flat-square&logo=Expo)](https://expo.dev/)
+[![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=Python)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=Git)](https://git-scm.com/)
 <div align=center>
 
