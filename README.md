@@ -1,5 +1,5 @@
 ###### In a serious relationship with computing since 2003 (love at first sight) 
-###### [Portifolio Website](https://portifolio-nathahernandez.vercel.app/)<br>[Medium](https://medium.com/@nathahcorrea)<br>[Linkedin](https://www.linkedin.com/in/natha-hernandez/)<br>[Email](mailto:nathahcorrea@gmail.com)
+###### [Portifolio Website](https://portifolio-nathahernandez.vercel.app/)<br>[Linkedin](https://www.linkedin.com/in/natha-hernandez/)
 
 ###### Work with:
 [![Typescript](https://img.shields.io/badge/Typescript-18181B?style=flat-square&logo=TypeScript)](https://www.typescriptlang.org/)
