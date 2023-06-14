@@ -1,5 +1,5 @@
 ###### In a serious relationship with computing since 2003 (love at first sight) 
-###### [Portifolio Website](https://portifolio-nathahernandez.vercel.app/)<br>[Linkedin](https://www.linkedin.com/in/natha-hernandez/)
+###### [Portifolio Website](https://portifolio-nathahernandez.vercel.app/)<br>[Linkedin](https://www.linkedin.com/in/nhcorrea/)
 
 ###### Work with:
 [![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=React)](https://react.dev/)
