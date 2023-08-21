@@ -1,5 +1,5 @@
 ###### In a serious relationship with computing since 2003 (love at first sight) 
-###### [Portifolio Website](https://portifolio-nathahernandez.vercel.app/)<br>[Linkedin](https://www.linkedin.com/in/nhcorrea/)
+###### <!-- [Portifolio Website](https://portifolio-nathahernandez.vercel.app/)<br> -->[Linkedin](https://www.linkedin.com/in/nhcorrea/)
 
 ###### Work with:
 [![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=React)](https://react.dev/)
@@ -11,7 +11,6 @@
 
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-18181B?style=flat-square&logo=TailwindCSS)](https://tailwindcss.com/)
 [![StyledComponents](https://img.shields.io/badge/Styled%20Components-18181B?style=flat-square&logo=styled-components)](https://styled-components.com/)
-[![Redux](https://img.shields.io/badge/Redux-18181B?style=flat-square&logo=Redux&logoColor=764ABC)](https://redux.js.org/)
 [![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=Git)](https://git-scm.com/)
 [![Gitlab](https://img.shields.io/badge/Gitlab-18181B?style=flat-square&logo=gitlab)](https://git-scm.com/)
 <div align=center>
