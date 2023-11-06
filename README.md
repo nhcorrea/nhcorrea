@@ -2,12 +2,11 @@
 ###### <!-- [Portifolio Website](https://portifolio-nathahernandez.vercel.app/)<br> -->[Linkedin](https://www.linkedin.com/in/nhcorrea/)
 
 ###### Work with:
-[![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=React)](https://react.dev/)
 [![React Native](https://img.shields.io/badge/React%20native-18181B?style=flat-square&logo=React)](https://reactnative.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=Next.js)](https://nextjs.org/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-18181B?style=flat-square&logo=vuedotjs)](https://vuejs.org/)
-[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-18181B?style=flat-square&logo=nuxtdotjs)](https://v2.nuxt.com/)
 [![Typescript](https://img.shields.io/badge/Typescript-18181B?style=flat-square&logo=TypeScript)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=React)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=Next.js)](https://nextjs.org/)
+[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-18181B?style=flat-square&logo=nuxtdotjs)](https://v2.nuxt.com/)
 
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-18181B?style=flat-square&logo=TailwindCSS)](https://tailwindcss.com/)
 [![StyledComponents](https://img.shields.io/badge/Styled%20Components-18181B?style=flat-square&logo=styled-components)](https://styled-components.com/)
