@@ -1,7 +1,6 @@
-###### In a serious relationship with computing since 2003 (love at first sight) 
 ###### <!-- [Portifolio Website](https://portifolio-nathahernandez.vercel.app/)<br> -->[Linkedin](https://www.linkedin.com/in/nhcorrea/)
 
-###### Work with:
+###### Working with:
 [![React Native](https://img.shields.io/badge/React%20native-18181B?style=flat-square&logo=React)](https://reactnative.dev/)
 [![Typescript](https://img.shields.io/badge/Typescript-18181B?style=flat-square&logo=TypeScript)](https://www.typescriptlang.org/)
 [![Redux](https://img.shields.io/badge/Redux-18181B?style=flat-square&logo=redux&logoColor=764ABC)](https://redux.js.org/)
