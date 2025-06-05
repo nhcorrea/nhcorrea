@@ -1,6 +1,5 @@
 [Website](https://nhcorrea.com/)  
 [Linkedin](https://www.linkedin.com/in/nhcorrea/)  
-[Curriculum](https://drive.google.com/file/d/1KV5OyNYtsvVx9XYBraqtnOxx-MOyi8ws/view)
 
 [![React Native](https://img.shields.io/badge/React%20native-18181B?style=flat-square&logo=React)](https://reactnative.dev/)
 [![Typescript](https://img.shields.io/badge/Typescript-18181B?style=flat-square&logo=TypeScript)](https://www.typescriptlang.org/)
